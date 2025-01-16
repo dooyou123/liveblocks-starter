@@ -57,7 +57,7 @@ export default async function Index() {
             target="_blank"
             variant="secondary"
           >
-            Learn more
+            더보기
           </LinkButton>
         </div>
       </Container>

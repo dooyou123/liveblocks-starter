@@ -50,7 +50,7 @@ export default async function Index() {
               await signIn();
             }}
           >
-            <Button icon={<SignInIcon />}>Sign in</Button>
+            <Button icon={<SignInIcon />}>로그인</Button>
           </form>
           <LinkButton
             href="https://liveblocks.io/docs/guides/nextjs-starter-kit"

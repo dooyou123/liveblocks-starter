@@ -37,12 +37,10 @@ export default async function Index() {
         <div className={styles.heroInfo}>
           <h1 className={styles.heroTitle}>
             Kickstart your collaborative&nbsp;app
-            업무 공용 공간에 오신 것을 환영합니다!!
           </h1>
           <p className={styles.heroLead}>
             Use the Liveblocks Starter Kit to build your document-based
             collaborative app in&nbsp;minutes.
-            이 곳은 문서 관리를 위해 만든 공간입니다!
           </p>
         </div>
         <div className={styles.heroActions}>

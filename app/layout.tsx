@@ -12,7 +12,7 @@ import "../styles/text-editor.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "업무 관련 모음",
+  title: "Liveblocks Starter Kit",
 };
 
 export default async function RootLayout({

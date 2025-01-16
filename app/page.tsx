@@ -39,7 +39,7 @@ export default async function Index() {
             Kickstart your collaborative&nbsp;app
           </h1>
           <p className={styles.heroLead}>
-            Use the Liveblocks Starter Kit to build your document-based
+            프레사 인 명동 업무 지원 툴 Use the Liveblocks Starter Kit to build your document-based
             collaborative app in&nbsp;minutes.
           </p>
         </div>

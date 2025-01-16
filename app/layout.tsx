@@ -22,7 +22,7 @@ export default async function RootLayout({
 }) {
   const session = await auth();
   return (
-    <html lang="en">
+    <html lang="ko">
       <body className={inter.className}>
         <Providers session={session}>{children}</Providers>
       </body>

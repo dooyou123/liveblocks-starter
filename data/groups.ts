@@ -7,11 +7,11 @@ import { Group } from "@/types";
 export const groups: Group[] = [
   {
     id: "product",
-    name: "Product",
+    name: "공지사항",
   },
   {
     id: "engineering",
-    name: "Engineering",
+    name: "인수인계",
   },
   {
     id: "design",
